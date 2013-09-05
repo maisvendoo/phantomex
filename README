@@ -1,0 +1,18 @@
+This code - illustration for lessons about simple Operating System creation.
+
+Author: maisvendoo, http://phantomexos.blogspot.ru
+
+Requirements:
+
+1) Virtual Mashine with GRUB2 loader on HDD installed
+2) gcc compiler and make utility 
+
+To build PhantomEx kernel navigate to directory with this sources and execute
+
+$ make
+
+Then copy kernel file to /boot directory of your Virtual Mashine HDD
+
+Enjoy!
+
+maisvendoo, 15 July 2013
